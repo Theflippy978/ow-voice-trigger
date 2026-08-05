@@ -13,7 +13,7 @@
 
 ### 下载
 
-1. 前往 [Releases](https://github.com/your-repo/ow-voice-trigger/releases) 页面
+1. 前往 [Releases](https://github.com/Theflippy978/ow-voice-trigger/ow-voice-trigger/releases) 页面
 2. 下载最新版 `OW语音触发器.exe`
 
 ### 运行
@@ -99,7 +99,7 @@ Release 中还提供了个人整理的英雄配置（preset_config.json，重命
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-repo/ow-voice-trigger.git
+git clone https://github.com/Theflippy978/ow-voice-trigger/ow-voice-trigger.git
 cd ow-voice-trigger
 
 # 创建虚拟环境
