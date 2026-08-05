@@ -13,7 +13,7 @@
 
 ### 下载
 
-1. 前往 [Releases](https://github.com/Theflippy978/ow-voice-trigger/ow-voice-trigger/releases) 页面
+1. 前往 [Releases](https://github.com/Theflippy978/ow-voice-trigger/releases/tag/v1.0.0) 页面
 2. 下载最新版 `OW语音触发器.exe`
 
 ### 运行
